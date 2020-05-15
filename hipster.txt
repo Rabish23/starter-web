@@ -4,4 +4,6 @@ i am living in hyderabad doing a job
 Job oppurtunity is nit there in my state so i ahve to come to hyderabad
 All this i am typing in lockdown due to corona.
 again i am editing this file 
-i am modified this
+i am modified this4
+editted the file to see edit option while othet file is in stage region
+adding one more line to see that git differentiate bewteen the stage and working directory 
