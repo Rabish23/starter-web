@@ -1,0 +1,2 @@
+new file to test the tracked file by git
+adding new line to edit the file
