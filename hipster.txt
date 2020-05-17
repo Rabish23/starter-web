@@ -7,3 +7,4 @@ again i am editing this file
 i am modified this4
 editted the file to see edit option while othet file is in stage region
 adding one more line to see that git differentiate bewteen the stage and working directory 
+adding new line to do the backout changes
