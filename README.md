@@ -1,7 +1,7 @@
-# Starter Web Repo
+#GIT Study
 
-This repository is for showing how Git and GitHub work
+## purpose
 
-## Purpose
+## why to do
 
-Sample website with plenty of files for demos
+## how to contribute
